@@ -1,6 +1,6 @@
 import telebot
 from telebot import types
-token='6084814748:AAF7qWZmEKFMv2LcH1noGMcPjVhwrVX1pnE'
+token='token'
 bot=telebot.TeleBot(token)
 import requests
 
